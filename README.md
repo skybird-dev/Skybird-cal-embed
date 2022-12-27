@@ -1,2 +1,3 @@
 # Skybird-cal-embed
-Created with CodeSandbox
+
+For cal.com embedding
