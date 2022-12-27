@@ -4,7 +4,7 @@
     "name": "Skybird-Dev",
     "email": "me@skybird.dev"
   },
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Cal Component - Embed Inline",
   "keywords": [],
   "main": "src/index.tsx",
